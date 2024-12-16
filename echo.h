@@ -3,6 +3,6 @@
 
 #define BUFFER_SIZE 1024
 
-void *handleConnection(void *client_socket_ptr);
+void* handleConnection(void* client_socket_ptr);
 
 #endif
